@@ -2,10 +2,12 @@
   <tr>
     <td align=center>
       <img src="https://github.com/chengyuan99/up/blob/master/dtw.jpg" /><br/>
-      <a href="https://git.io/fgp">https://git.io/fgp</a><br/>
+      <a href="https://git.io/fgp">绿色软件（电脑版）</a><br/>
       <a href="https://raw.githubusercontent.com/ogate/up/master/Tools/FG.zip">备用下载地址</a><br/>
       软件无需安装，解压缩到一个文件夹里<br/>
-      点击程序，稍候自动打开网页<br/>
+      十几年的不凡历史，提供更佳使用体验<br/>
+      <a href="https://github.com/chengyuan99/news/blob/master/README.md">在线新闻入口（测试）</a><br/>
+      不需下载软件，直接在线浏览<br/>
     </td>
   </tr>
   <tr>
