@@ -42,6 +42,7 @@
   <tr>
     <td align=center>
       <a href="https://github.com/chengyuan98/gate/wiki">< 在线相册 ></a><br/>
+      <a href="https://github.com/chengyuan98/journal_zhenxiang">< 在线期刊 ></a><br/>
     </td>
   </tr>  
 </table>
