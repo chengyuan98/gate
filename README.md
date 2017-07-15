@@ -36,7 +36,7 @@
       < 在线精选视频 ><br/>
       <a href="http://s3.ap-northeast-2.amazonaws.com/fwqzhenx1002/zhen/wh-mp4.html">十几年前的一场疑案</a><br/>
       <a href="http://s3.ap-northeast-2.amazonaws.com/fwqzhenx1002/zhen/sszj-mp4.html">医院背后的秘密</a><br/>
-      <a href="http://s3.ap-northeast-2.amazonaws.com/fwqzhenx1005/zhen/wmgswl-mp4.html">我们告诉未来（电视片）</a><br/>
+      <a href="http://s3.ap-northeast-2.amazonaws.com/fwqzhenx1002/zhen/wmgswl-mp4.html">我们告诉未来（电视片）</a><br/>
     </td>
   </tr>
   <tr>
