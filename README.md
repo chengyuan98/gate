@@ -31,17 +31,4 @@
       希望您能访问到平时看不到的网站<br/>
     </td>
   </tr>
-  <tr>
-    <td align=center>
-      < 在线精选视频 ><br/>
-      <a href="https://fwqzx.github.io/fwqzx1001/zhen/wh-mp4.html">十几年前的一场疑案</a><br/>
-      <a href="https://fwqzx.github.io/fwqzx1001/zhen/sszj-mp4.html">医院背后的秘密</a><br/>
-      <a href="https://fwqzx.github.io/fwqzx1001/zhen/wmgswl-mp4.html">我们告诉未来（电视片）</a><br/>
-    </td>
-  </tr>
-  <tr>
-    <td align=center>
-      <a href="https://github.com/chengyuan98/gate/wiki">< 在线相册 ></a><br/>
-    </td>
-  </tr>  
 </table>
