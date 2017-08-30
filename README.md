@@ -14,12 +14,15 @@
     <td align=center>
       <img src="https://github.com/chengyuan98/up/blob/master/wm.jpg" /><br/>
       请尝试不同入口通道，進入首页<br/>
-      <a href="https://rawgit.com/onorm/up/master/oGate.htm?from=oGate">入口</a>
-      <a href="https://s3.amazonaws.com/ogate/oGate.htm?from=oGate">入口</a>
-      <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?from=oGate">入口</a><br/>
-      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/oGate.htm?from=oGate">入口</a>
+      <a href="https://s3-us-west-1.amazonaws.com/ogaten/oGate.htm?from=oGate">入口</a>
+      <a href="https://s3.us-east-2.amazonaws.com/ogateh/oGate.htm?from=oGate">入口</a>
+      <a href="https://s3.amazonaws.com/ogate/oGate.htm?from=oGate">入口</a><br/>
       <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?from=oGate">入口</a>
-      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=oGate">入口</a><br/>
+      <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?from=oGate">入口</a>
+      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/oGate.htm?from=oGate">入口</a><br/>
+      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=oGate">入口</a>
+      <a href="https://s3.ca-central-1.amazonaws.com/ogatec/oGate.htm?from=oGate">入口</a>
+      <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?from=oGate">入口</a><br/>
       微信如提示停止访问该网页，须<br/>
       先点击右上角，选择浏览器打开<br/>
     </td>
@@ -34,9 +37,9 @@
   <tr>
     <td align=center>
       < 在线精选视频 ><br/>
-      <a href="https://rawgit.com/fwqzx1001/fwqzx1002/master/zhen/wh-mp4.html">十几年前的一场疑案</a><br/>
-      <a href="https://rawgit.com/fwqzx1001/fwqzx1002/master/zhen/sszj-mp4.html">医院背后的秘密</a><br/>
-      <a href="https://rawgit.com/fwqzx1001/fwqzx1002/master/zhen/wmgswl-mp4.html">善良的坚持（电视片）</a><br/>
+      <a href="http://fq-69421401.fwqzhenx-1011.info/zhen/wh-mp4.html">十几年前的一场疑案</a><br/>
+      <a href="http://fq-69421401.fwqzhenx-1011.info/zhen/sszj-mp4.html">医院背后的秘密</a><br/>
+      <a href="http://fq-69421401.fwqzhenx-1011.info/zhen/wmgswl-mp4.html">善良的坚持（电视片）</a><br/>
     </td>
   </tr>
   <tr>
