@@ -3,12 +3,13 @@
     <td align=center>
       <img src="https://github.com/chengyuan98/up/blob/master/dtw.jpg" /><br/>
       <a href="https://git.io/fgp">电脑版翻墙软件</a><br/>
-      <a href="https://raw.githubusercontent.com/opipe/Up/master/Tools/FG.zip">备用下载地址</a><br/>
-      软件无需安装，解压缩到一个文件夹里<br/>
+      <a href="https://github.com/chengyuan98/browser">翻墙浏览器</a><br/>
+      <a href="https://github.com/chengyuan98/software">更多下载地址</a><br/> 
+      软件无需安装，解压缩后直接使用<br/>
       <a href="http://bit.ly/2lkajC7">安卓版TV软件</a><br/>
-      可用于安卓机顶盒、平板电脑、手机<br/>
-      <a href="https://github.com/chengyuan98/pac/blob/master/README.md">翻墙浏览器</a><br/>
+      可用于安卓机顶盒、平板电脑、手机<br/>
       <a href="https://github.com/hao369/a/raw/master/jygV2.2.2017082401.apk">安卓版新闻软件</a><br/>
+      可用于安卓平板电脑、手机<br/>
     </td>
   </tr>
   <tr>
