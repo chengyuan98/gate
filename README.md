@@ -25,7 +25,6 @@
     <td align=center>
       —— 在线音视频 ——<br/>
       <a href="https://s3-us-west-1.amazonaws.com/ogaten/show.htm?from=852#c816837"> 九评共产党 </a><br/>
-      <a href="https://s3-us-west-1.amazonaws.com/ogaten/show.htm?from=852#c838296"> 共产主义的终极目的 </a><br/>
       <a href="https://s3.amazonaws.com/ogate/show.htm?from=852#c838867"> 医院背后的秘密 </a><br/>
       <a href="https://github.com/chengyuan98/video/blob/master/README.md"> 更多精选视频 </a><br/>
     </td>
