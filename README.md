@@ -14,10 +14,10 @@
   <tr>
     <td align=center>
       <a href="https://s3-us-west-1.amazonaws.com/ogaten/show.htm?from=852"><img src="https://github.com/chengyuan98/up/blob/master/wm.jpg" /><br/>
-      <a href="https://s3-us-west-1.amazonaws.com/ogaten/show.htm?from=852">入口</a>
-      <a href="https://s3.amazonaws.com/ogate/show.htm?from=852">入口</a><br/>
-      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/show.htm?from=852">入口</a>
-      <a href="https://s3.us-east-2.amazonaws.com/ogateh/show.htm?from=852">入口</a><br/>
+      <a href="https://s3.amazonaws.com/ogate/show.htm?from=852">入口</a>
+      <a href="https://s3-us-west-1.amazonaws.com/ogaten/show.htm?from=852">入口</a><br/>
+      <a href="https://s3.us-east-2.amazonaws.com/ogateh/show.htm?from=852">入口</a>
+      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/show.htm?from=852">入口</a><br/>
       请尝试不同翻墙入口<br/>
     </td>
   </tr>
