@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td align=center>
-      <a href="https://github.com/chengyuan98/news/blob/master/README.md"><img src="https://github.com/chengyuan98/up/blob/master/dtw.jpg" /><br/><br/>
+      <a href="https://github.com/chengyuan98/news/blob/master/README.md"><img src="https://github.com/chengyuan98/up/blob/master/dtw.jpg" /><br/>
       <a href="http://e3.s42f.ga/523/?3654">入口</a>
       <a href="http://61.228.187.1/1">入口</a>
       <a href="http://61.228.181.21/1">入口</a><br/>
