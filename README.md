@@ -1,14 +1,22 @@
 <table>
   <tr>
     <td align=center>
-      <a href="http://t.cn/RW999di"><img src="https://github.com/chengyuan98/up/blob/master/dtw.jpg" /><br/>
-      <a href="https://github.com/chengyuan98/software/blob/master/README.md">下载翻墙软件</a><br/>
+      <a href="https://github.com/chengyuan98/news/blob/master/README.md"><img src="https://github.com/chengyuan98/up/blob/master/dtw.jpg" /><br/>
+      <a href="http://e3.s42f.ga/523/?3654">入口</a>
+      <a href="http://61.228.187.1/1">入口</a>
+      <a href="http://61.228.181.21/1">入口</a><br/>
+      <a href="http://61.228.215.96/1">入口</a>
+      <a href="http://61.228.191.23/1">入口</a>
+      <a href="http://t.cn/R1LWULa">入口</a><br/>
+      请尝试不同新闻入口<br/>
+      <a href="https://github.com/chengyuan98/software/blob/master/README.md">推荐：翻墙软件</a><br/>
       <a href="https://github.com/chengyuan98/browser/blob/master/README.md">翻墙浏览器</a><br/>
-      用于Windows桌面电脑<br/>
-      <a href="https://github.com/chengyuan98/up/blob/master/iNTD_TVsp1.apk">安卓版TV软件</a><br/>
-      用于安卓机顶盒、平板电脑、手机<br/>
+      以上用于Windows桌面电脑<br/>
+      <a href="https://github.com/chengyuan98/up/blob/master/SzzdOgateTV.apk">推荐：神州正道TV软件</a><br/>
+      <a href="https://github.com/chengyuan98/up/blob/master/iNTD_TVsp1.apk">新唐人TV软件</a><br/>
+      以上用于安卓TV机顶盒<br/>
       <a href="https://github.com/hao369/a/raw/master/jygV2.2.2017082401.apk">安卓版新闻软件</a><br/>
-      用于安卓平板电脑、手机<br/>
+      以上用于安卓手机<br/>
     </td>
   </tr>
   <tr>
