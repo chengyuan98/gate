@@ -1,6 +1,5 @@
 <table>
   <tr>
-      <br/>
       动态新闻入口<br/>
       <a href="http://e3.s42f.ga/523/?3654">入口</a> 
       <a href="http://61.228.187.1/1">入口</a> 
@@ -22,4 +21,4 @@
       <a href="https://s3-us-west-1.amazonaws.com/ogaten/show.htm?from=852">入口</a><br/>
       <a href="https://s3.us-east-2.amazonaws.com/ogateh/show.htm?from=852">入口</a> 
       <a href="https://s3.ap-south-1.amazonaws.com/ogatem/show.htm?from=852">入口</a><br/><br/>
-      <a href="https://github.com/chengyuan98/video/blob/master/README.md"> —— 精选视频 —— </a><br/><br/>
+      <a href="https://github.com/chengyuan98/video/blob/master/README.md"> — 精选视频 — </a><br/><br/>
