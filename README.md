@@ -1,6 +1,6 @@
 <table>
   <tr>
-      动态新闻入口<br/>
+      翻墙新闻入口<br/>
       <a href="http://e3.s42f.ga/523/?3654">入口</a> 
       <a href="http://61.228.187.1/1">入口</a> 
       <a href="http://61.228.181.21/1">入口</a><br/>
@@ -16,7 +16,7 @@
       <a href="https://github.com/chengyuan98/up/raw/master/um4.3.apk">无界一点通新闻软件</a><br/>
       <a href="https://github.com/hao369/a/raw/master/jygV2.2.2017082401.apk">聚缘阁新闻软件</a><br/>
       用于安卓手机<br/><br/>
-      网门翻墙入口<br/>
+      翻墙视频入口<br/>
       <a href="https://s3.amazonaws.com/ogate/show.htm?from=852">入口</a> 
       <a href="https://s3-us-west-1.amazonaws.com/ogaten/show.htm?from=852">入口</a><br/>
       <a href="https://s3.us-east-2.amazonaws.com/ogateh/show.htm?from=852">入口</a> 
