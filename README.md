@@ -15,6 +15,6 @@
       <a href="https://s3-us-west-1.amazonaws.com/ogaten/show.htm?from=852">入口</a><br/>
       <a href="https://s3.us-east-2.amazonaws.com/ogateh/show.htm?from=852">入口、</a>
       <a href="https://s3.ap-south-1.amazonaws.com/ogatem/show.htm?from=852">入口</a><br/><br/>
-      <a href="https://github.com/chengyuan98/video/blob/master/README.md"> — 精选视频 — </a><br/><br/>
+      <a href="https://github.com/chengyuan98/video/blob/master/README.md">—精选视频—</a><br/><br/>
   </tr>
 </table>  
