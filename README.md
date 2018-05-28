@@ -1,12 +1,6 @@
 <table>
   <tr>
-      翻墙新闻入口：<br/>
-      <a href="http://e3.s42f.ga/523/?3654">入口、</a>
-      <a href="http://61.228.187.1/1">入口、</a>
-      <a href="http://61.228.181.21/1">入口</a><br/>
-      <a href="http://61.228.215.96/1">入口、</a>
-      <a href="http://61.228.191.23/1">入口、</a>
-      <a href="http://t.cn/R1LWULa">入口</a><br/><br/>
+      <a href="http://e3.s42f.ga/523/?3654">翻墙新闻入口（测试）</a><br/>
       <a href="https://github.com/chengyuan98/software/blob/master/README.md">推荐：翻墙软件</a><br/>
       <a href="https://github.com/chengyuan98/browser/blob/master/README.md">翻墙浏览器</a><br/>
       用于Windows桌面电脑<br/><br/>
