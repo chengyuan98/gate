@@ -1,6 +1,6 @@
 <table>
   <tr>
-      用于Windows桌面电脑：<br/>
+      用于桌面电脑：<br/>
       <a href="https://github.com/chengyuan98/software/blob/master/README.md">推荐：翻墙软件</a><br/>
       <a href="https://github.com/chengyuan98/browser/blob/master/README.md">翻墙浏览器</a><br/><br/>
       用于安卓TV机顶盒：<br/>
