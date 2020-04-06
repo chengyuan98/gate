@@ -14,7 +14,6 @@
       复我中华：<br/>    
       <a href="https://github.com/zxmcs2716/djy/blob/master/gb/ncid1982.md#1">中华文化博览</a><br/>
       <a href="https://github.com/zxmcs2716/djy/blob/master/gb/ncid238.md#1">中华历史名人</a><br/>
-      <a href="https://github.com/zxmcs2716/djy/blob/master/gb/ncid2006.md#1">中华历史探源</a><br/>
       <a href="https://github.com/zxmcs2716/ntdtv/blob/master/gb/prog1704_1.md#1">百年红祸</a><br/><br/>
       <a href="https://github.com/chengyuan98/video/blob/master/README.md">—精选视频—</a><br/><br/>
   </tr>
