@@ -11,6 +11,11 @@
       <a href="https://gitlab.com/juyuange/2/-/raw/master/jyg.apk">聚缘阁新闻软件</a><br/><br/>
       安卓电视机顶盒软件：<br/>
       <a href="https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgateTV.apk">神州正道TV软件</a><br/><br/>
+      复我中华：<br/>    
+      <a href="https://github.com/zxmcs2716/djy/blob/master/gb/ncid1982.md#1">中华文化博览</a><br/>
+      <a href="https://github.com/zxmcs2716/djy/blob/master/gb/ncid238.md#1">中华历史名人</a><br/>
+      <a href="https://github.com/zxmcs2716/djy/blob/master/gb/ncid2006.md#1">中华历史探源</a><br/>
+      <a href="https://github.com/zxmcs2716/djy/blob/master/gb/nf1176114.md#1">共产百年：破坏传统和道德</a><br/><br/>
       <a href="https://github.com/chengyuan98/video/blob/master/README.md">—精选视频—</a><br/><br/>
   </tr>
 </table>  
