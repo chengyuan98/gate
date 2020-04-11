@@ -15,6 +15,6 @@
       <a href="https://github.com/gwy252/djy/blob/master/gb/ncid1982.md#1">中华文化博览</a><br/>
       <a href="https://github.com/gwy252/djy/blob/master/gb/ncid238.md#1">中华历史名人</a><br/>
       <a href="https://github.com/gwy252/ntdtv/blob/master/gb/prog1704_1.md#1">百年红祸</a><br/><br/>
-      <a href="https://github.com/chengyuan98/gate/wiki"> - 老照片 - </a><br/><br/>
+      <a href="https://github.com/chengyuan98/gate/wiki"> -- 老照片 -- </a><br/><br/>
   </tr>
 </table>  
