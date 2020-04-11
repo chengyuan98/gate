@@ -1,6 +1,7 @@
 <table>
   <tr>
       新闻首页入口：<br/>
+      <a href="https://chengyuan98.github.io/news/">推荐：新闻专页</a><br/>
       <a href="https://github.com/gwy252/djy/blob/master/gb/nf1351518.md#1">大纪元新闻</a><br/>
       <a href="https://github.com/gwy252/ntdtv/blob/master/gb/prog204.md#1">新唐人新闻</a><br/><br/>    
       桌面电脑软件：<br/> 
