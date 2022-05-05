@@ -5,8 +5,7 @@
       <a href="https://github.com/gwy252/djy/blob/master/gb/nf1351518.md#1">大纪元新闻</a><br/>
       <a href="https://github.com/gwy252/ntdtv/blob/master/gb/prog204.md#1">新唐人新闻</a><br/><br/>    
       桌面电脑软件：<br/> 
-      <a href="https://github.com/chengyuan98/software/blob/master/README.md">--翻墙软件--</a><br/>
-      <a href="https://github.com/chengyuan98/browser/blob/master/README.md">翻墙浏览器</a><br/><br/>
+      <a href="https://github.com/chengyuan98/software/blob/master/README.md">--翻墙软件--</a><br/><br/>
       安卓手机软件：<br/>
       <a href="https://github.com/chengyuan98/up/raw/master/um4.8.apk">无界一点通新闻软件</a><br/>
       <a href="https://gitlab.com/juyuange/2/-/raw/master/jyg.apk">聚缘阁新闻软件</a><br/><br/>
